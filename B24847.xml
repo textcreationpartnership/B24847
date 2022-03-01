@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Iustices and Council. Maurice Eustace Canc. Orrery. Mountrath. Whereas we are given to understand by the informations of many persons well deserving credit, that of late times there have been sundry unlawful assemblies in many parts of the kingdom ...</title>
+            <title>Miscellaneous Documents. 1661-01-22</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24847</idno>
+            <idno type="STC">Wing I955</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[20]</idno>
+            <idno type="STC">ESTC R226599</idno>
+            <idno type="EEBO-CITATION">99886789</idno>
+            <idno type="PROQUEST">ocm99886789</idno>
+            <idno type="VID">192375</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B24847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192375)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Iustices and Council. Maurice Eustace Canc. Orrery. Mountrath. Whereas we are given to understand by the informations of many persons well deserving credit, that of late times there have been sundry unlawful assemblies in many parts of the kingdom ...</title>
+                  <title>Miscellaneous Documents. 1661-01-22</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Eustace, Maurice, Sir, ca. 1590-1661.</author>
+                  <author>Mountrath, Charles Coote, Earl of, ca. 1610-1661.</author>
+                  <author>Orrery, Roger Boyle, Earl of, 1621-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by William Bladen, by special order,</publisher>
+                  <pubPlace>Imprinted at Dublin :</pubPlace>
+                  <date>anno Dom. 1660 [i.e. 1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>At end of text: Given at the Council-Chamber in Dublin the 22. day of Ianuary 1660.</note>
+                  <note>Steele notation: credit, as publique; Arms 177.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1660-1688 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192375:1" rendition="simple:additions"/>
+            <head type="royal_insignia">
+               <figure>
+                  <figDesc>English version of royal coat of arms of the United Kingdom</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <byline>By the Lords Iuſtices and Council.</byline>
+            <opener>
+               <signed>
+                  <hi>Maurice Euſtace <hi>Canc.</hi> Orrery. Mountrath.</hi>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We are given to underſtand by the Informations of many perſons well deſerving credit, that of late times there have been ſundry unlawful aſſemblies in many parts of this Kingdom held by Papiſts, by Presbyterians, by Independents, by Anabaptiſts, by Quakers, and other Fanatical perſons meeting in great numbers, divers hundreds and ſometimes thouſands at an aſſembly convened and congregated, ſome by a forraign pretended Iurisdiction, others by a pre<g ref="char:EOLhyphen"/>tended Domeſtique Authority from a Presbytery, others under pretence of Congregational Churches, and all of them contrary to and in contempt of his Majeſties Royal Authority, and the eſtabliſhed Laws of the Land, and if not ſeaſonably prevented threatning the diſturb<g ref="char:EOLhyphen"/>ance of the good Government, Peace and Tranquility of the Kingdom; In which Aſſemblies ſome have taken upon them on their own heads to appoint publique Faſts, and days of Humi<g ref="char:EOLhyphen"/>liation or Thanksgiving for his Majeſties Subjects, and to give holy Orders, and induct into Eccleſiaſtical benefices, and to deprive Miniſters (who have good titles by the Laws of this Realm) at their pleaſures by their Arbitrary Orders by the force of ſuch of their pariſhioners as joyn with them and go along with them, At which meetings they are not afraid to ſpeak evil of Dignities, and to caſt dirt in the face of the lawful Magiſtrates, yea to uſurp the eſſential rights of Soveraignty it ſelf, and to inveigh againſt the known Laws of this Realm; We therefore the Lords Iuſtices and Council, conſidering and de<g ref="char:EOLhyphen"/>ſiring timely to prevent the many ſad inconveniences and miſchiefs which muſt of neceſſity flow from theſe tumultuous courſes if not prevented, and what apparent dangers they threaten to the Kingdom in general, Have thought fit to declare to all his Majeſties loving Subjects, that all ſuch Aſſemblies, whether it be of Papiſts, of Presbyterians, of Independents, of Ana<g ref="char:EOLhyphen"/>baptiſts, of Quakers, or of any other Fanatical perſons, are in themſelves altogether unlawful, and moſt dangerous to the common good of the Kingdom; And therefore We do ſtrictly inhibit and forbid all his Majeſties Subjects either Eccleſiaſtical or Lay, to call or convocate any ſuch Aſſemblies under the name of days of Humiliation, or days of Thanksgiving or conſiſto<g ref="char:EOLhyphen"/>rial days, or under any other pretence whatſoever, or to be preſent at them, or to execute their ſentences, or to be preſent or any way to aſſiſt at the execution of them, as they will anſwer the contrary at their perils.</p>
+            <p>And We do hereby further declare, that as We can readily paſs by ſuch diſorderly and tumultuous meetings for the time paſt upon hope of amendment for the future, ſo if any perſon or perſons whatſoever, ſhall for the future preſume to convocate or appoint any ſuch Aſſemblies, or meet at them being convocated by any others, or ſhall diſperſe or ſpread abroad any of their Orders, Sentences, or Acts, or execute or aſſiſt at the execution of any of their ſaid Orders or Sentences, or Acts, or any part of them hereafter, We ſhall call him to a ſtrict account aſwel for the time paſt as for the future.</p>
+            <p>And as We aſſure Our Selves that the moſt Reverend Arch-Biſhops, and the right Reverend Biſhops, will uſe all due care and induſtry to gain ſuch as have been ſeduced into thoſe Turbulent and Seditious courſes to obedience and conformity to the juſt Laws of this Realm, ſo We do hereby require and charge them, and all Governors, Iuſtices of Peace, Sherifs, and all other his Majeſties loving Subjects and Officers whatſoever, that they ſuffer not any ſuch unlawful meetings under the pretence of Religion to be held within their ſeveral Provinces, Dioceſſes, Sheires, or diſtricts for the future, but ſeize upon all ſuch perſons ſo aſſembled, and bind them over with ſufficient ſureties to anſwer for ſuch unlawful meetings, and all other abuſes and diſorders aforeſaid either before the Iudges of Aſſize, or the Iuſtices of the Peace at their Seſſions according to the quality or degree of their offences, there to be proceeded with according to Law, as they tender his Majeſties ſervice, and the proſperity and welfare of this Kingdom.</p>
+            <p>And We require all Commanders Officers, and Souldiers of his Majeſties Army, and all other his Majeſties Subjects, as occaſion may be offered, or their aſſiſtance required, to be ayding and aſſiſting in the due execution of theſe our commands, whereof they may not fail; And We require all Mayors, Sherifs, and all other Officers of Cities, Counties, and Corpo<g ref="char:EOLhyphen"/>rate Towns to cauſe this Proclamation to be forthwith Publiſhed and Proclaimed, and publiquely fixed up in all publique places within their reſpective limits.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council-Chamber in <hi>Dublin</hi>
+                  </hi> 
+                  <date>
+                     <hi>the 22. day of <hi>Ianuary</hi> 1660.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Io. <hi>Armachanus. <hi>Cork, Cloyn, Roſs.</hi>
+                        </hi>
+                     </item>
+                     <item>Ia. Margetſon Elect. <hi>Dublin.</hi>
+                     </item>
+                     <item>Montgomerie.</item>
+                     <item>Michael Boyle, Elect.</item>
+                     <item>Hen. Tichborne.</item>
+                     <item>Rob. Forth.</item>
+                     <item>Rob. Meredith.</item>
+                     <item>Theo. Iones.</item>
+                  </list>
+               </signed>
+               <hi>GOD SAVE THE KING.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at <hi>Dublin</hi> by <hi>William Bladen,</hi> by ſpecial Order, <hi>Anno Dom.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
